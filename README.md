@@ -8,3 +8,6 @@ historia.html es la hisotoria del juego y de las facciones
 clases.html son las clases de jugadores o personajes que hay en el juego
 
 modos.html son los modos de juegos que hay en el juego final
+
+
+https://bent-rock.surge.sh/index.html
